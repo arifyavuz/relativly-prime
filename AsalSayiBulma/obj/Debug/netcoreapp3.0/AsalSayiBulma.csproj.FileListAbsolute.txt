@@ -1,0 +1,11 @@
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\bin\Debug\netcoreapp3.0\AsalSayiBulma.exe
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\bin\Debug\netcoreapp3.0\AsalSayiBulma.deps.json
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\bin\Debug\netcoreapp3.0\AsalSayiBulma.runtimeconfig.json
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\bin\Debug\netcoreapp3.0\AsalSayiBulma.runtimeconfig.dev.json
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\bin\Debug\netcoreapp3.0\AsalSayiBulma.dll
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\bin\Debug\netcoreapp3.0\AsalSayiBulma.pdb
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\obj\Debug\netcoreapp3.0\AsalSayiBulma.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\obj\Debug\netcoreapp3.0\AsalSayiBulma.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\obj\Debug\netcoreapp3.0\AsalSayiBulma.AssemblyInfo.cs
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\obj\Debug\netcoreapp3.0\AsalSayiBulma.dll
+C:\Users\CEM\source\repos\AsalSayiBulma\AsalSayiBulma\obj\Debug\netcoreapp3.0\AsalSayiBulma.pdb
